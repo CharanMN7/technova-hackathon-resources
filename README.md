@@ -1,1 +1,1 @@
-# technova-hackathon-resources
+# Technova Hackathon Resources
